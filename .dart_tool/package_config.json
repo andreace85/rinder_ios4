@@ -392,8 +392,38 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "share",
-      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share-2.0.4",
+      "name": "share_plus",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus-4.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share_plus_linux",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_linux-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share_plus_macos",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_macos-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share_plus_platform_interface",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_platform_interface-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share_plus_web",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_web-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "share_plus_windows",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/share_plus_windows-3.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -464,6 +494,54 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "url_launcher",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_android",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_android-6.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_ios",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_ios-6.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "url_launcher_linux",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_macos",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_platform_interface",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_platform_interface-2.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_web",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.9",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "url_launcher_windows",
+      "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-3.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "uuid",
       "rootUri": "file:///Users/andreace85/flutter/.pub-cache/hosted/pub.dartlang.org/uuid-3.0.6",
       "packageUri": "lib/",
@@ -530,7 +608,7 @@
       "languageVersion": "2.6"
     }
   ],
-  "generated": "2022-05-09T10:19:01.233048Z",
+  "generated": "2022-05-09T12:08:02.241318Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

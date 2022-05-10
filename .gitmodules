@@ -1,3 +1,4 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/andreace85/lib.git
+	branch = master
