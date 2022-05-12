@@ -26,8 +26,10 @@
 	<true/>
 	<key>NSCameraUsageDescription</key>
 	<string>Uso della fotocamera per la realizzazione dei video</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Uso del microfono per la realizzazione dei video</string>
 	<key>NSPhotoLibraryUsageDescription</key>
-	<string>Accedi alla galleria?</string>
+	<string>Acceso alla galleria per la realizzazione dei filmati.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
